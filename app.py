@@ -42,16 +42,16 @@ st.write("""
 Téléchargez une image pour la classer.
 
 **Catégories disponibles :**
-- 👗 Dress
-- 🧢 Hat
-- 👕 Longsleeve
-- 🧥 Outwear
-- 👖 Pants
-- 👔 Shirts
-- 👟 Shoes
-- 🩳 Shorts
-- 👚 Skirt
-- 👕 T-shirt
+- 👗 Dress -> Robe
+- 🧢 Hat -> Chapeau
+- 👕 Longsleeve -> Manches longues
+- 🧥 Outwear -> Vêtements d'extérieur
+- 👖 Pant -> Pantalon
+- 👔 Shirt -> Chemise
+- 👟 Shoes -> Chaussures
+- 🩳 Short -> Short
+- 👚 Skirt -> Jupe
+- 👕 T-shirt -> T-shirt
 """)
 
 
