@@ -37,7 +37,7 @@ def predict_image(image):
 # Interface Streamlit
 st.set_page_config(page_title="👕🧢 Classificateur de Vêtements", layout="centered")
 
-st.title("👕🧢 Classificateur de Vêtements")
+st.title("👕🧢 Classificateur de vêtements par Jean Frédéric Sobel GOMIS & Malayni SAMBOU")
 st.write("""
 Téléchargez une image pour la classer.
 
